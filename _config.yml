@@ -1,11 +1,10 @@
 title: Joshua Wang
 logo: "/images/logo.jpg?raw=true" # Main photo
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! I’m Joshua, I’m a recent graduate in Computer Science and Data Science with a passion for solving complex problems through machine learning, data science, and software engineering. With experience spanning AI research, consulting, and software development, I’ve worked on projects ranging from cybersecurity threat detection to large language models and web applications.
+description: >
+  Hi! I’m Joshua, a graduate in Computer Science & Data Science with a passion for solving complex problems through machine learning, data science, and software engineering. My goal is to leverage data-driven solutions to create impactful and innovative technologies.
   <br><br>
-  I thrive in collaborative environments, whether it’s leading a team, contributing to open-source projects, or teaching as a university TA. My goal is to leverage data-driven solutions to create impactful and innovative technologies.
-  <br><br>
-  <a href="https://www.linkedin.com/in/wang-joshua/">View My LinkedIn Profile</a> 
+  🔹 **LinkedIn:** <a href="https://www.linkedin.com/in/wang-joshua/">linkedin.com/in/wang-joshua/</a>
+  🔹 **GitHub:** <a href="https://github.com/JoshuaWang8">github.com/JoshuaWang8</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
