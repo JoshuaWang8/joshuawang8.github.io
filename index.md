@@ -11,9 +11,13 @@ This project was completed for my thesis, and the manuscript has been submitted 
 
 🛠 **Technologies Used**: Python, PyTorch, Pandas, Numpy, Scikit-learn, Matplotlib
 
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-C0392B) ![Anomaly Detection](https://img.shields.io/badge/-Anomaly%20Detection-E91E63) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745)
+📄 [View Thesis Report (PDF)](/pdf/Novel_Attack_Detection_in_IoT_Network_Intrusion_Detection_Systems.pdf)
+\
+📄 [View Seminar Slide deck](/pdf/Novel_Attack_Detection_Seminar_Slides.pdf)
+\
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/novel-attack-nids)
 
-📄 [View Thesis Report (PDF)](/pdf/Novel_Attack_Detection_in_IoT_Network_Intrusion_Detection_Systems.pdf) | 🔗 [View GitHub Repository](https://github.com/JoshuaWang8/novel-attack-nids) | 📄 [View Seminar Slide deck](/pdf/Novel_Attack_Detection_Seminar_Slides.pdf)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-C0392B) ![Anomaly Detection](https://img.shields.io/badge/-Anomaly%20Detection-E91E63) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745)
 
 ---
 
@@ -23,9 +27,9 @@ Explored various link prediction methodologies to a graph dataset to predict fut
 
 🛠 **Technologies Used**: Python, PyTorch, Scikit-learn, Numpy, Pandas, NetworkX
 
-![Graph Theory](https://img.shields.io/badge/-Graph%20Theory-F39C12) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/link-prediction)
 
-📄 [View Project Details](/pages/link_prediction/link_prediction.md) | 🔗 [View GitHub Repository](https://github.com/JoshuaWang8/link-prediction)
+![Graph Theory](https://img.shields.io/badge/-Graph%20Theory-F39C12) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745)
 
 ---
 
@@ -35,9 +39,11 @@ Analyzed Facebook ad strategies used by politicians in the 2022 Australian Feder
 
 🛠 **Technologies Used**: PySpark, Python, Pandas, Matplotlib
 
-![Distributed Computing](https://img.shields.io/badge/-Distributed%20Computing-17A2B8) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-16A085)
+📄 [View Project Details](/pdf/Political_Ad_Analysis.pdf)
+\
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/political-ads-analysis)
 
-📄 [View Project Details](/pdf/Political_Ad_Analysis.pdf) | 🔗 [View GitHub Repository](https://github.com/JoshuaWang8/political-ads-analysis)
+![Distributed Computing](https://img.shields.io/badge/-Distributed%20Computing-17A2B8) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-16A085)
 
 ---
 
@@ -47,9 +53,9 @@ Implemented Betweenness Centrality and PageRank Centrality to identify influenti
 
 🛠 **Technologies Used**: Python, NetworkX, Numpy, Matplotlib
 
-![Graph Theory](https://img.shields.io/badge/-Graph%20Theory-F39C12)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/centrality-measures)
 
-📄 [View Project Details](/pages/centrality_measures/centrality_measures.md) | 🔗 [View GitHub Repository](https://github.com/JoshuaWang8/centrality-measures)
+![Graph Theory](https://img.shields.io/badge/-Graph%20Theory-F39C12)
 
 ---
 
@@ -60,9 +66,9 @@ Led a team of six to develop **apha.ai**, a web application assisting patients w
 
 🛠 **Technologies Used**: React.js, Javascript, Python, TensorFlow, PyTorch
 
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-E74C3C) ![Web Development](https://img.shields.io/badge/-Web%20Development-E67E22) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
-
 🔗 [View GitHub Repository](https://github.com/JoshuaWang8/apha-ai)
+
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-E74C3C) ![Web Development](https://img.shields.io/badge/-Web%20Development-E67E22) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
 
 ---
 
@@ -72,9 +78,9 @@ Implemented k-Nearest Neighbors, Logistic Regression, and Neural Networks to cla
 
 🛠 **Technologies Used**: Python, Pandas, Numpy, Scikit-learn, Matplotlib
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
-
 📄 [View Report (PDF)](/pdf/Food-Classification-Report.pdf)
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
 
 ---
 
@@ -84,8 +90,8 @@ Developed a Vision Transformer model with Shifted Patch Tokenization and Local S
 
 🛠 **Technologies Used**: TensorFlow, Python, Matplotlib
 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
-
 🔗 [View GitHub Repository](https://github.com/JoshuaWang8/PatternFlow/tree/topic-recognition/recognition/46965611-ADNI-Brain-Visual-Transformer)
+
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
 
 ---
