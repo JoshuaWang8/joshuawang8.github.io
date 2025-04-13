@@ -1,8 +1,13 @@
+---
+layout: default
+title: Home
+---
+
 ## Portfolio of Projects
 
 ---
 
-### [A Hybrid Ensemble Framework for Intrusion Detection in IoT Networks](https://github.com/JoshuaWang8/novel-attack-nids)
+### [A Hybrid Ensemble Framework for Intrusion Detection in IoT Networks](https://github.com/JoshuaWang8/novel-attack-nids){:target="_blank"}
 <img src="images/Novel_IoT_Detection_Framework.png"/>
 
 Developed a machine learning model capable of identifying cyberattacks on Internet of Things (IoT) networks whilst also differentiating between benign, known attack and novel attack traffic types.
@@ -11,86 +16,86 @@ This project was completed for my thesis, and the manuscript has been submitted 
 
 🛠 **Technologies Used**: Python, PyTorch, Pandas, Numpy, Scikit-learn, Matplotlib
 
-📄 [View Thesis Report (PDF)](/pdf/Novel_Attack_Detection_in_IoT_Network_Intrusion_Detection_Systems.pdf)
+📄 [View Thesis Report (PDF)](/pdf/Novel_Attack_Detection_in_IoT_Network_Intrusion_Detection_Systems.pdf){:target="_blank"}
 \
-📄 [View Seminar Slide deck](/pdf/Novel_Attack_Detection_Seminar_Slides.pdf)
+📄 [View Seminar Slide deck](/pdf/Novel_Attack_Detection_Seminar_Slides.pdf){:target="_blank"}
 \
-🔗 [View GitHub Repository](https://github.com/JoshuaWang8/novel-attack-nids)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/novel-attack-nids){:target="_blank"}
 
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-C0392B) ![Anomaly Detection](https://img.shields.io/badge/-Anomaly%20Detection-E91E63) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745)
 
 ---
 
-### [Link Prediction in Graph Networks](/pages/link_prediction/link_prediction.md)
+### [Link Prediction in Graph Networks](https://github.com/JoshuaWang8/link-prediction){:target="_blank"}
 
-Explored various link prediction methodologies to a graph dataset to predict future linkages between users. Approaches implemented include the Katz Index, Jaccard similarity, Adamic-Adar index, Graph Convolutional Network, neural network binary classifier and a comparison of graph embedding distances.
+Explored various link prediction methodologies on a graph dataset to predict future linkages between users. Approaches implemented include the Katz Index, Jaccard similarity, Adamic-Adar index, Graph Convolutional Network, neural network binary classifier and a comparison of graph embedding distances.
 
 🛠 **Technologies Used**: Python, PyTorch, Scikit-learn, Numpy, Pandas, NetworkX
 
-🔗 [View GitHub Repository](https://github.com/JoshuaWang8/link-prediction)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/link-prediction){:target="_blank"}
 
 ![Graph Theory](https://img.shields.io/badge/-Graph%20Theory-F39C12) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745)
 
 ---
 
-### [Analysis of Facebook Political Ad Data](https://github.com/JoshuaWang8/political-ads-analysis)
+### [Analysis of Facebook Political Ad Data](https://github.com/JoshuaWang8/political-ads-analysis){:target="_blank"}
 
 Analyzed Facebook ad strategies used by politicians in the 2022 Australian Federal Election, focusing on spending patterns and demographic targeting to assess election success impact.
 
 🛠 **Technologies Used**: PySpark, Python, Pandas, Matplotlib
 
-📄 [View Project Details](/pdf/Political_Ad_Analysis.pdf)
+📄 [View Project Details](/pdf/Political_Ad_Analysis.pdf){:target="_blank"}
 \
-🔗 [View GitHub Repository](https://github.com/JoshuaWang8/political-ads-analysis)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/political-ads-analysis){:target="_blank"}
 
 ![Distributed Computing](https://img.shields.io/badge/-Distributed%20Computing-17A2B8) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-16A085)
 
 ---
 
-### [Centrality Measures in Graph Networks](/pages/centrality_measures/centrality_measures.md)
+### [Centrality Measures in Graph Networks](https://github.com/JoshuaWang8/centrality-measures){:target="_blank"}
 
 Implemented Betweenness Centrality and PageRank Centrality to identify influential nodes in a Facebook social network dataset.
 
 🛠 **Technologies Used**: Python, NetworkX, Numpy, Matplotlib
 
-🔗 [View GitHub Repository](https://github.com/JoshuaWang8/centrality-measures)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/centrality-measures){:target="_blank"}
 
 ![Graph Theory](https://img.shields.io/badge/-Graph%20Theory-F39C12)
 
 ---
 
-### [apha.ai: Support for Aphasia Patients](https://github.com/JoshuaWang8/apha-ai)
+### [apha.ai: Support for Aphasia Patients](https://github.com/JoshuaWang8/apha-ai){:target="_blank"}
 <img src="images/apha-ai_features.png?raw=true"/>
 
 Led a team of six to develop **apha.ai**, a web application assisting patients with aphasia in understanding and interacting with text content. The tool leverages AI-driven large language models to enhance communication accessibility.
 
 🛠 **Technologies Used**: React.js, Javascript, Python, TensorFlow, PyTorch
 
-🔗 [View GitHub Repository](https://github.com/JoshuaWang8/apha-ai)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/apha-ai){:target="_blank"}
 
 ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-E74C3C) ![Web Development](https://img.shields.io/badge/-Web%20Development-E67E22) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
 
 ---
 
-### [Food Type Classification using Machine Learning](/pdf/Food-Classification-Report.pdf)
+### [Food Type Classification using Machine Learning](/pdf/Food-Classification-Report.pdf){:target="_blank"}
 
 Implemented k-Nearest Neighbors, Logistic Regression, and Neural Networks to classify foods as solids or liquids based on nutrient data. Included PCA, k-fold Cross Validation, and hyperparameter tuning, achieving an F1 score of 93.3%.
 
 🛠 **Technologies Used**: Python, Pandas, Numpy, Scikit-learn, Matplotlib
 
-📄 [View Report (PDF)](/pdf/Food-Classification-Report.pdf)
+📄 [View Report (PDF)](/pdf/Food-Classification-Report.pdf){:target="_blank"}
 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
 
 ---
 
-### [Alzheimer's Disease Classification with Vision Transformer](https://github.com/JoshuaWang8/PatternFlow/tree/topic-recognition/recognition/46965611-ADNI-Brain-Visual-Transformer)
+### [Alzheimer's Disease Classification with Vision Transformer](https://github.com/JoshuaWang8/PatternFlow/tree/topic-recognition/recognition/46965611-ADNI-Brain-Visual-Transformer){:target="_blank"}
 
 Developed a Vision Transformer model with Shifted Patch Tokenization and Local Self-Attention to classify Alzheimer’s Disease from MRI brain scans.
 
 🛠 **Technologies Used**: TensorFlow, Python, Matplotlib
 
-🔗 [View GitHub Repository](https://github.com/JoshuaWang8/PatternFlow/tree/topic-recognition/recognition/46965611-ADNI-Brain-Visual-Transformer)
+🔗 [View GitHub Repository](https://github.com/JoshuaWang8/PatternFlow/tree/topic-recognition/recognition/46965611-ADNI-Brain-Visual-Transformer){:target="_blank"}
 
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8E44AD)
 
